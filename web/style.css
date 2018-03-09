@@ -1,0 +1,24 @@
+body{background: url(images/page_bg.jpg) no-repeat 50% 0 #00421f; background-size:100% auto; margin: 0px }
+
+.wrapper{width: 1100px;margin:0 auto;}
+
+.site-header{ position:relative; padding: 20px; background: url(images/header_bg_pattern.jpg) repeat-x}
+.site-header .site-logo {display: block;width: 279px;height: 91px;text-indent:-9999px;background: url(images/logo.png) no-repeat 0 0;}
+
+.site-header .container{ width: 1010px; margin: 0 auto }
+
+.site-header .navigation{ position:absolute; right:0; bottom:-12px; width:785px; height:69px; background: url(images/global_nav_bg.png) }
+.site-header .navigation li{display:inline;padding:10px;color:#fff;vertical-align: top;}
+
+.main-body { width: 1010px; margin: 10px auto }
+
+.widget{ position:relative }
+.widget .photo{width: 100%;}
+.widget .prev{position:absolute;top:50%;margin-top: -50px;display: block;width:40px;height: 100px; left: -40px; background: url(images/carousel_arrow_left.png);}
+.widget .next{position:absolute;right:0;top:50%;margin-top: -50px;width:40px;height:100px;right:-40px;background:url(images/carousel_arrow_right.png) }
+
+
+.site-footer ul{ list-style:none; padding:30px; margin:0; text-align:center }
+.site-footer li{ display:inline-block; vertical-align:top; margin:0 20px }
+
+p{text-align: center;color: #fff }
